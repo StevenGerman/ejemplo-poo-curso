@@ -14,6 +14,8 @@ namespace ejemplo_3eventos
         [STAThread]
         static void Main()
         {
+            //Un comentario cualquiera.....
+
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new frmPrimcipal());
